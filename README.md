@@ -1,13 +1,12 @@
-![logo](https://github.com/bhaskar2469/bhaskar2469/blob/main/istockphoto-1338528659-612x612.jpg)
+<div align="center"> <img src="https://github.com/bhaskar2469/bhaskar2469/blob/main/istockphoto-1338528659-612x612.jpg"> </div>
+
+
 <h1 align="center">Hi 👋, I'm G.Bhaskar</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
-
-<img align="right" alt="devops" width=" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="DevOps" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar2469&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar2469" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaskar2469" alt="bhaskar2469" /></a> </p>
 
 - 🌱 I’m currently learning **python**
 
@@ -32,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar2469&show_icons=true&locale=en&layout=compact" alt="bhaskar2469" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar2469&show_icons=true&locale=en" alt="bhaskar2469" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2469&" alt="bhaskar2469" /></p>
